@@ -1,6 +1,3 @@
-# dungeon_chaos
-Dungeon Chaos is a roguelike dungeon-crawler game developed in Java.
-=======
 # Dungeon Chaos
 
 ## Project Overview
